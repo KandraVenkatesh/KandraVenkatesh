@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KandraVenkatesh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning B Tech 
+- 🌱 I’m currently Studying B Tech 
 
 
 <!---
